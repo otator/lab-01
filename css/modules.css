@@ -1,0 +1,9 @@
+div {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.main-container{
+  border:1px solid black;
+}
+
